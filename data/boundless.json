@@ -1,0 +1,41 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Developer",
+      "applicants": [
+        {
+          "id": 1,
+          "name": "Rich Hickey",
+          "tags": ["clojure", "java", "immutability", "datomic", "transducers"]
+        },
+        {
+          "id": 2,
+          "name": "Guido van Rossum",
+          "tags": ["python", "google", "bdfl", "drop-box"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Software Architect",
+      "applicants": [
+        {
+          "id": 42,
+          "name": "Rob Pike",
+          "tags": ["plan-9", "TUPE", "go", "google", "sawzall"]
+        },
+        {
+          "id": 2,
+          "name": "Guido van Rossum",
+          "tags": ["python", "google", "bdfl", "drop-box"]
+        },
+        {
+          "id": 1337,
+          "name": "Jeffrey Dean",
+          "tags": ["spanner", "BigTable", "MapReduce", "deep learning", "massive clusters"]
+        }
+      ]
+    }
+  ]
+}
